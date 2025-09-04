@@ -1,6 +1,12 @@
 # Product Development at Uber Analysis
 
-## Problem Statement
+## Table of Contents
+- Project Overview
+- Approach
+- Key Findings
+- Business Impact
+
+## Project Overview
 
 High rider cancellations during peak commute hours were reducing retention and limiting profitability. We aimed to test whether adjusting wait times dynamically by time-of-day could improve rider satisfaction without increasing operational costs.
 
