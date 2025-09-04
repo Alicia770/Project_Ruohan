@@ -6,7 +6,7 @@ High rider cancellations during peak commute hours were reducing retention and l
 
 ## Approach
 
-Summarization: Conducted A/B testing using Python (SciPy) to evaluate the impact of wait-time adjustments on rider behaviour, applying t-tests and hypothesis testing to assess statistical significance across time-of-day segments.
+*Summarization: Conducted A/B testing using Python (SciPy) to evaluate the impact of wait-time adjustments on rider behaviour, applying t-tests and hypothesis testing to assess statistical significance across time-of-day segments.*
 
 
 - Experimental Design
@@ -26,7 +26,7 @@ Summarization: Conducted A/B testing using Python (SciPy) to evaluate the impact
 
 ## Key Findings
 
-Summarization: Identified that shorter wait times during peak commute hours led to a significant drop in cancellations without raising operational costs, enabling the development of a dynamic, hour-specific strategy that improved rider retention and boosted profitability
+*Summarization: Identified that shorter wait times during peak commute hours led to a significant drop in cancellations without raising operational costs, enabling the development of a dynamic, hour-specific strategy that improved rider retention and boosted profitability.*
 
 
 Peak Hours: Reducing wait times by 5 minutes led to a significant drop in cancellations (p < 0.05).
